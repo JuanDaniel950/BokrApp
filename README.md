@@ -1,16 +1,3 @@
-# brokr
+Vistas Figma
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://www.figma.com/design/AKnzo30AK9leGqbKNZbcSB/Brokr-LLC?node-id=1387-22622&m=dev&t=3YLfUGJnOO956JwV-1
